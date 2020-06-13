@@ -183,5 +183,8 @@ $RECYCLE.BIN/
 # Node modules of movies-api
 movies-api/node_modules/
 
+#Env docs
+.env
+
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,windows,linux
 

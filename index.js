@@ -12,6 +12,9 @@ function bisiesto(year) {
     }
 }
 
+// Middleware body parser
+app.use(express.json());
+
 moviesApi(app);
 
 app.listen(config.port, function () {
