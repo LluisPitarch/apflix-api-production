@@ -188,3 +188,5 @@ movies-api/node_modules/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,windows,linux
 
+
+.vercel
